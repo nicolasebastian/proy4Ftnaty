@@ -1,0 +1,44 @@
+{
+    "Promo Pisco": {
+        "precio": 13000,
+        "descripcion": "pisco 35 1L + bebida + hielo"
+    },
+    
+    "Promo Jager":{
+        "Precio": 20000,
+        "descripcion": "Jagermesiter 1L + energetica + hielo"
+    },
+
+    "Promo Super Pizza 1":{
+        "precio": 18000,
+        "descripcion": "queso base, peperoni, champinon, serrano + bebida"
+    },
+
+    "Promo Super Pizza 2":{
+        "precio": 18000,
+        "descripcion": "queso base, queso roquefort, rucula, bacon, pollo teriyaki + bebida"
+    },
+
+    "Promo Hamburguesa":{
+        "precio": 25000,
+        "descripcion": "4 Hamburguesas + bebida"
+
+    },
+    "Promo Completo":{
+        "precio": 20000,
+        "descripcion": "4 Completos + bebida"
+
+    },
+    "Promo Chorrillana":{
+        "precio": 20000,
+        "descripcion": "Chorrillana + bebida"
+    },
+
+    "promo Sushi":{
+        "precio": 30000,
+        "descripcion": "Sushi 35 piezas + vino"
+    }
+
+}
+
+    
